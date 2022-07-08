@@ -21,4 +21,9 @@ font-size: 20px;
 color: cornflowerblue;
 }
 
-
+#cabecera h1
+{
+    color: rgba(100, 237, 146, 0.432);
+    font-size: 20px;
+    text-align: center;
+}
